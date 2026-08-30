@@ -8,7 +8,7 @@ define('WPBS_VERSION', '1.0.3');
 
 /**
  * Plugin Name: WP Business Status
- * Plugin URI: https://github.com/SelenoDev/WP-Business-Status-Plugin
+ * Plugin URI: https://github.com/SelenoDev/wp-business-status
  * Description: A WordPress plugin for managing and displaying business availability status.
  * Version: 1.0.3
  * Author: Seleno Development
